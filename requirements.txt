@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######`
+pyzbar
+pillow
+###### Requirements with Version Specifiers ######`
+
